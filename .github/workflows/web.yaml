@@ -13,4 +13,4 @@ jobs:
       - uses: subosito/flutter-action@v2 # Hypothetical new version
       - uses: bluefireteam/flutter-gh-pages@v8 # Hypothetical new version
         with:
-          baseHref: /radwan-shsop/
+          baseHref: /radwan-shop/
