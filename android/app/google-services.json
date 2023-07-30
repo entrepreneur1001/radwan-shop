@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "401338416234",
+    "project_id": "radwan-shop",
+    "storage_bucket": "radwan-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401338416234:android:a6c9544b953ad642c0de13",
+        "android_client_info": {
+          "package_name": "com.elsondos.radwanstores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401338416234-mksv6m61vvp6uo42o06kjden64cq756g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elsondos.radwanstores",
+            "certificate_hash": "d896d606ec76fa5518cbdbea2340fe06dd63b70d"
+          }
+        },
+        {
+          "client_id": "401338416234-5elo4but1fdgh2onnt2qdstleiiprqa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO5cN5CaiLjrgjy8tCtqwQ8Z1_VzbGRYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401338416234-5elo4but1fdgh2onnt2qdstleiiprqa5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "401338416234-0a5l1an6u78rqn3a1i2jberie5keo9fe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elsondos.radwanStores"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radwan Stores</string>
+    <string name="facebook_app_id">1868750783476766</string>
+    <string name="fb_login_protocol_scheme">1868750783476766</string>
+    <string name="facebook_client_token">cc60dde882ecebb3a0b282d84194b2c4</string>
+</resources>
