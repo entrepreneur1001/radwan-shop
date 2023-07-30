@@ -9,7 +9,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: subosito/flutter-action@v1
-      - uses: bluefireteam/flutter-gh-pages@v7
+      - uses: actions/checkout@v3 # Update to the latest version
+      - uses: subosito/flutter-action@v2 # Hypothetical new version
+      - uses: bluefireteam/flutter-gh-pages@v8 # Hypothetical new version
         with:
-          baseHref: /radwan-hsop/
+          baseHref: /radwan-shsop/
